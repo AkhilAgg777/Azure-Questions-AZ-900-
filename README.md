@@ -45,6 +45,8 @@ Yes, when you store an object in the Archive access tier, the storage cost is th
 
 **Question 5:**
 **Which of the following is a command-line utility that can be used to transfer data to the Blob service in an Azure Storage Account?**
+
+
 ![image](https://user-images.githubusercontent.com/38729013/202589103-4086e448-b027-4520-9db3-5b4f5359f3ac.png)
 
 You can make use of the AzCopy tool as the command line utility.
