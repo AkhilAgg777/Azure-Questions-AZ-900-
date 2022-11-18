@@ -32,3 +32,14 @@ A team currently has the following object uploaded to a container in an Azure St
 Here the Access tier for the object is the Archive Access tier. In order to access the object you will first need to rehydrate the object.
 
 
+
+**Question 4:**
+A team currently has the following object uploaded to a container in an Azure Storage account
+![image](https://user-images.githubusercontent.com/38729013/202588789-3744d41a-1547-40f3-9db8-648266018902.png)
+
+![image](https://user-images.githubusercontent.com/38729013/202588815-c47383a3-7e71-4ddc-951f-f1f180ab889e.png)
+
+
+Yes, when you store an object in the Archive access tier, the storage cost is the least. For more information on Access tiers, one can visit the below URL - https://docs.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview
+
+
