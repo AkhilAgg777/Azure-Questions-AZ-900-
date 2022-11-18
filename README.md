@@ -1,9 +1,10 @@
 # Azure-Questions-AZ-900-
 Questions for Azure Certification
 
-**-----------------------------------------------------------**
+----------------------------------------------------------
 1.)Azure Storage
 --------------------------------------------------------
+
 **Question 1:**
 A development team is planning on creating a General Purpose-V2 storage account. They want to store files and ensure that each is accessible via a unique URL. Which of the following is the right service within Azure Storage Accounts that can be used for this purpose?
 
