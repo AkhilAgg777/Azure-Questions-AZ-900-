@@ -1,4 +1,4 @@
-# Azure-Questions-AZ-900-
+# Cloud-Azure-Certification Exam Questions
 Questions for Azure Certification
 
 ----------------------------------------------------------
